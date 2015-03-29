@@ -1,2 +1,2 @@
 # Pandora Song Exporter
-Export songs you've liked on the Pandora web application.
+Modified the script from [this blog](http://www.tedtrowbridge.com/exporting-liked-songs-from-pandora/) to export bookmarks from the mobile version of pandora one. copy and paste the results into excel and remove the feilds with commas first (these are noise from the other "show more" button but only a few show up).  Flip the order and you have a playlist to paste into playlistify.
