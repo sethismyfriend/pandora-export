@@ -28,7 +28,7 @@ setTimeout(function()
     $('.myprofile_icon').click();
     setTimeout(function()
     {
-        $('#profile_tab_likes').click();
+        $('#profile_tab_bookmarks').click();
         setInterval(function()
         {
             findAllSongs();
